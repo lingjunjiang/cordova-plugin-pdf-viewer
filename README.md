@@ -36,7 +36,7 @@ The plugin uses InAppBrowser (https://cordova.apache.org/docs/en/3.0.0/cordova/i
 
 The plugin uses external PDF viewers on Android device.
  
-TODO
+## TODO ##
 
 - Add feature for iOS.
 - Add online pdf file support for Android
